@@ -1,2 +1,2 @@
 # FilePath
-Local file path parser / descriptor.
+Local file path string parser / descriptor.
