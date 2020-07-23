@@ -1,4 +1,7 @@
 # Filepath
+
+**Already NOT MAINTAINED!** I'm writing more classes now.
+
 Local file path string parser / descriptor for .NET application.
 
 ## help me.
